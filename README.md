@@ -1,4 +1,4 @@
-# Sentiment Analysis on Twitter Data
+# Sentiment Classification using NLTK and Logistic Regression
 ![Python](https://img.shields.io/badge/Python-3.12.4-blueviolet)
 ![Tensorflow](https://img.shields.io/badge/ML-Tensorflow-fcba03)
 ![Colab](https://img.shields.io/badge/Editor-GColab-blue)
