@@ -41,6 +41,7 @@ import pickle
     ```sh
     !kaggle datasets download -d kazanova/sentiment140
     ```
+    or you can find the dataset here: [Sentiment140 Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
 ### Extract Dataset
 1. Unzip the dataset:
