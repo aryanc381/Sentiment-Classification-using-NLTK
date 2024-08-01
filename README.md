@@ -171,5 +171,5 @@ The Sentiment140 dataset contains 1,600,000 tweets annotated with sentiment labe
     else:
         print("Positive")
     ```
-
-This README provides a step-by-step guide for preprocessing text data, training a logistic regression model, evaluating its performance, and saving the model for future use. The project uses the Sentiment140 dataset to perform sentiment analysis on tweets.
+---
+If you have any doubts regarding this project, do email me at the email given in my profile.
